@@ -1,0 +1,8 @@
+.build
+.vs
+.history
+tags
+*.swp
+*.exe
+*.patch
+*.user
